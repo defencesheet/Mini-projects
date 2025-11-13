@@ -3,7 +3,7 @@
 This repository contains beginner-friendly JavaScript projects — Vowel Counter and Palindrome Checker.
 Both projects use HTML, CSS, and JavaScript to practice working with the DOM, string manipulation, and event handling.
 
-🌸 1. Vowel Counter
+🌸 1. Vowel-Counter
 📖 Description
 
 The Vowel Counter project allows users to type any sentence and instantly count the number of vowels (a, e, i, o, u) present in it.
